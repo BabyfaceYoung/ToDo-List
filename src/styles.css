@@ -1,10 +1,12 @@
 body {
   font-family: Arial, sans-serif;
   text-align: center;
+  background-color: dodgerblue;
 }
 
 h1 {
   margin-top: 50px;
+  margin-bottom: 0px;
 }
 
 form {
@@ -37,9 +39,10 @@ ul {
   text-align: left;
   width: 300px;
   margin: 0 auto;
+  color: white;
 }
 
 li {
   padding: 10px;
-  border-bottom: 1px solid gray;
+  border-bottom: 1px solid black;
 }
